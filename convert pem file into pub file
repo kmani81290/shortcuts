@@ -1,0 +1,1 @@
+ ssh-keygen -y -f admin.pem > admin.pub
